@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: Brigham Young's Resume Rebeca 
 ---
 # Rebeca Matoso
 Business Analytics Student
